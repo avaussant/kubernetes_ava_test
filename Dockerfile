@@ -2,7 +2,7 @@
 # Create Docker container for python forwarder to service now
 #
 FROM alpine:3.8
-LABEL Author="Alexandre Vaussant avaussant@axway.com"
+LABEL Author="Alexandre "
 
 #
 #Cppy app files
